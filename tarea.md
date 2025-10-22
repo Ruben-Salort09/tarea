@@ -14,3 +14,9 @@ Sirven para conectar el teclado y el ratón, normalmente las placas incluyen dos
 
 * El de color lila es el del teclado.
 
+![IMAGEN DEL CONECTOR LILA](img/conector2.png)
+
+## PUERTO PARALELO
+
+También se les conoce con el nombre LPT o puertos de impresora. La información se envía mediante 8 bits al mismo tiempo en lugar de utilizar un bit como en los serie. Se pueden conectar a ellos las unidades Zip, CD-ROM y DVD-ROM externos o escáneres. Actualmente quedan obsoletos.
+
