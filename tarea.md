@@ -10,8 +10,7 @@ Sirven para conectar el teclado y el ratón, normalmente las placas incluyen dos
 
 * El puerto de color verde es el del ratón.
 
-
+![IMAGEN DEL CONECTOR VERDE](img/conector1.png)
 
 * El de color lila es el del teclado.
-
 
