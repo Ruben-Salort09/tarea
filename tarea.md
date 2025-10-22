@@ -38,3 +38,21 @@ Sirven para conectar dispositivos USB como los *Pen Drives* en el equipo.
 
 Sirven para conectar el equipo a una red Ethernet.
 
+![IMAGEN DEL CONECTOR RJ-45](img/conector6.png)
+
+## PUERTOS DE JACK 3,5mm
+
+Son puertos para conectar los diferentes dispositivos de audio, como son altavoces, micrófono, dispositivos de audio, etc.
+
+**Se clasifican por estos colores:**
+
+* Jack de entrada de audio. Color Azul Claro.
+
+
+
+* Jack de salida de audio. Color Verde.
+
+
+
+* Jack de micrófono. Color Rosa.
+
