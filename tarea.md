@@ -32,3 +32,9 @@ Son puertos de vídeo que se utilizan para conectar el monitor, pantalla de tele
 
 Sirven para conectar dispositivos USB como los *Pen Drives* en el equipo.
 
+![IMAGEN DE LOS CONECTORES USB](img/conector5.png)
+
+## PUERTO RJ-45
+
+Sirven para conectar el equipo a una red Ethernet.
+
