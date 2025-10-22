@@ -24,5 +24,11 @@ También se les conoce con el nombre LPT o puertos de impresora. La información
 
 ## PUERTO VGA
 
-Son puertos de vídeo que se utilizan para conectar el monitor, pantalla de televisión o proyector a la placa base.
+Son puertos de vídeo que se utilizan para conectar el monitor, pantalla de televisión o proyector a la placa base. Actualmente quedan obsoletos.
+
+![IMAGEN DEL CONECTOR VGA](img/conector4.png)
+
+## PUERTOS USB
+
+Sirven para conectar dispositivos USB como los *Pen Drives* en el equipo.
 
