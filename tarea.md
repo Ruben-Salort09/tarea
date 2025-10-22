@@ -18,5 +18,11 @@ Sirven para conectar el teclado y el ratón, normalmente las placas incluyen dos
 
 ## PUERTO PARALELO
 
-También se les conoce con el nombre LPT o puertos de impresora. La información se envía mediante 8 bits al mismo tiempo en lugar de utilizar un bit como en los serie. Se pueden conectar a ellos las unidades Zip, CD-ROM y DVD-ROM externos o escáneres. Actualmente quedan obsoletos.
+También se les conoce con el nombre LPT o puertos de impresora. La información se envía mediante 8 bits al mismo tiempo en lugar de utilizar un bit como en los serie. Se pueden conectar a ellos las unidades de CD-ROM y DVD-ROM externos o escáneres. Actualmente quedan obsoletos.
+
+![IMAGEN DEL CONECTOR PARALELO](img/conector3.png)
+
+## PUERTO VGA
+
+Son puertos de vídeo que se utilizan para conectar el monitor, pantalla de televisión o proyector a la placa base.
 
