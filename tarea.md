@@ -48,7 +48,7 @@ Son puertos para conectar los diferentes dispositivos de audio, como son altavoc
 
 * Jack de entrada de audio. Color Azul Claro.
 
-
+![IMAGEN DEL CONECTOR AZUL](img/conector7.png)
 
 * Jack de salida de audio. Color Verde.
 
