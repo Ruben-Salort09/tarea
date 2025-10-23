@@ -52,7 +52,7 @@ Son puertos para conectar los diferentes dispositivos de audio, como son altavoc
 
 * Jack de salida de audio. Color Verde.
 
-
+![IMAGEN DEL CONECTOR LIMA](img/conector8.png)
 
 * Jack de micrófono. Color Rosa.
 
