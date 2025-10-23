@@ -56,3 +56,5 @@ Son puertos para conectar los diferentes dispositivos de audio, como son altavoc
 
 * Jack de micrófono. Color Rosa.
 
+![IMAGEN DEL CONECTOR ROSA](img/conector9.png)
+
